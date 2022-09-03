@@ -1,0 +1,15 @@
+
+body{
+  background-color: grey;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+a {
+  display: inline-block;
+  background: #69c;
+  color: #fff;
+  padding: 5px 10px;
+}
